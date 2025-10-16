@@ -4,7 +4,7 @@ With the help of this Python script, you can use the web browser Chromium as an 
 
 ## Requirements:
 
-- Chromium browser
+- Chromium browser version 141 or higher
 - Python 3
 - Wayland session with color management enabled
 - p3 or wide gamut monitor with correct icc-profile
